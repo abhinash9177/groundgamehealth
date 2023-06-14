@@ -76420,7 +76420,7 @@ k=t.N
 n=A.ag(["model","text-davinci-003","prompt",a,"max_tokens",2000,"temperature",0,"top_p",0.5],k,t.z)
 p=4
 m=A.tY("https://api.openai.com/v1/completions")
-k=A.ag(["Authorization","Bearer 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","Content-Type","application/json"],k,k)
+k=A.ag(["Authorization","Bearer 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","Content-Type","application/json"],k,k)
 s=7
 return A.a7(A.aK5(m,B.aE.oA(n,null),k),$async$tM)
 case 7:l=c
